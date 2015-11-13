@@ -1,6 +1,6 @@
 ---
 applications:
-- name: cf-green-vinay
+- name: cf-blue-vinay
   memory: 512M
   instances: 1
-  host: cf-green-vinay
+  host: cf-blue-vinay
