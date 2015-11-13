@@ -1,6 +1,7 @@
 ---
 applications:
-- name: cf-blue-vinay
+- name: msvinayv1
   memory: 512M
-  instances: 1
-  host: cf-blue-vinay
+  instances: 5
+  hosts:
+  - pushexample
