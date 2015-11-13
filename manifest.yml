@@ -1,7 +1,7 @@
 ---
 applications:
-- name: msvinayv1
+- name: msvinayv2
   memory: 512M
-  instances: 5
+  instances: 1
   hosts:
-  - pushexample
+  - msvinayv2
