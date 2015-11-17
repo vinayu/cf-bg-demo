@@ -3,7 +3,7 @@ class WebApplication {
 
 	@RequestMapping('/')
 	String home(Map<String,Object> model) {
-		model['color'] = 'green'
+		model['color'] = 'blue'
 		template 'index.html', model
 	}
 }

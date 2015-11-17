@@ -1,7 +1,7 @@
 ---
 applications:
-- name: msvinayv2
+- name: hsbcvinayv1
   memory: 512M
   instances: 2
   hosts:
-  - msvinay2
+  - msvinay
